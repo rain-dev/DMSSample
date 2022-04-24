@@ -18,8 +18,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DMSSample\Pinewood.DMSSample.Business.csproj" />
-    <ProjectReference Include="..\Pinewoond.DMSSample.Data\Pinewood.DMSSample.Data.csproj" />
+    <ProjectReference Include="..\Pinewood.DMSSample.Business\Pinewood.DMSSample.Business.csproj" />
+    <ProjectReference Include="..\Pinewood.DMSSample.Data\Pinewood.DMSSample.Data.csproj" />
   </ItemGroup>
 
 </Project>
